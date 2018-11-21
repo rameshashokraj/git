@@ -13,7 +13,7 @@ Verify Installation:
 	git --version
 
 
-GIT Uninstallation:
+GIT Uninstallation::
 $ sudo apt-get remove git
 
 #
